@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4D536B&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=Hello+Word,+my+name+is+Tomohiro;I'm+19+years+old+;Be+welcome!)](https://git.io/typingsvg)
+
 <div >
 <table>
 <tr>
