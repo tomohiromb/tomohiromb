@@ -1,5 +1,15 @@
 ## Ola, aqui é o Cleidson (─‿‿─)
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomoiromb&show_icons=true&theme=bear&count_private=true"/>
+<div >
+<table>
+<tr>
+<td>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomohiromb&show_icons=true&theme=bear&count_private=true"/>
+<td>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=tomohiromb&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</td>
+</tr>
+</table>
+<div>
 <!--
 **tomohiromb/tomohiromb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
